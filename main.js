@@ -127,6 +127,4 @@ shortcut = {
             _0x87f9x3.detachEvent ? _0x87f9x3.detachEvent("on" + a, _0x87f9x2) : _0x87f9x3.removeEventListener ? _0x87f9x3.removeEventListener(a, _0x87f9x2, !1) : _0x87f9x3["on" + a] = !1
         }
     }
-}, shortcut.add("Ctrl+U", function () {
-    top.location.href = "http://niadzgn.blogspot.com"
-})
+},
